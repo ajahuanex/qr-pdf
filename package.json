@@ -1,0 +1,23 @@
+{
+  "name": "qr-pdf",
+  "version": "1.0.0",
+  "description": "Isert QR code to PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajahuanex/qr-pdf.git"
+  },
+  "keywords": [
+    "QR",
+    "PDF"
+  ],
+  "author": "Juan Carlos Ajahuana Quispe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajahuanex/qr-pdf/issues"
+  },
+  "homepage": "https://github.com/ajahuanex/qr-pdf#readme"
+}
