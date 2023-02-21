@@ -2,9 +2,14 @@
   "name": "qr-pdf",
   "version": "1.0.0",
   "description": "Isert QR code to PDF",
-  "main": "index.js",
+  "main": "src/qr-pdf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "node-red" : {
+    "nodes": {
+        "qr-pdf": "src/qr-pdf.js"
+    }
   },
   "repository": {
     "type": "git",
